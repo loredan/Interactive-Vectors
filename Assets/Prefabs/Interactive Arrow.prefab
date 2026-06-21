@@ -31,11 +31,11 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 5956023847323107619}
+  m_Father: {fileID: 3994841362082415960}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -0.0000019073486}
+  m_AnchorMin: {x: 1, y: 0.5}
+  m_AnchorMax: {x: 1, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &7725499418693204495
@@ -91,8 +91,8 @@ MonoBehaviour:
   input:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 5754466554798809902}
-        m_TargetAssemblyTypeName: Arrow, Assembly-CSharp
+      - m_Target: {fileID: 8377719576316271386}
+        m_TargetAssemblyTypeName: Line, Assembly-CSharp
         m_MethodName: SetEnd
         m_Mode: 0
         m_Arguments:
@@ -126,7 +126,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3929565644094999830, guid: c3613d49302c9c743b016e30250d8358, type: 3}
       propertyPath: m_Name
-      value: Arrow Variant
+      value: Interactive Arrow
       objectReference: {fileID: 0}
     - target: {fileID: 7205768192138324483, guid: c3613d49302c9c743b016e30250d8358, type: 3}
       propertyPath: m_Pivot.x
@@ -154,11 +154,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7205768192138324483, guid: c3613d49302c9c743b016e30250d8358, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 95.93789
+      value: 130.7543
       objectReference: {fileID: 0}
     - target: {fileID: 7205768192138324483, guid: c3613d49302c9c743b016e30250d8358, type: 3}
       propertyPath: m_SizeDelta.y
-      value: 13.36
+      value: 128
       objectReference: {fileID: 0}
     - target: {fileID: 7205768192138324483, guid: c3613d49302c9c743b016e30250d8358, type: 3}
       propertyPath: m_LocalPosition.x
@@ -174,7 +174,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7205768192138324483, guid: c3613d49302c9c743b016e30250d8358, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.9729729
+      value: 0.98428565
       objectReference: {fileID: 0}
     - target: {fileID: 7205768192138324483, guid: c3613d49302c9c743b016e30250d8358, type: 3}
       propertyPath: m_LocalRotation.x
@@ -186,7 +186,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7205768192138324483, guid: c3613d49302c9c743b016e30250d8358, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0.23091927
+      value: 0.17658363
       objectReference: {fileID: 0}
     - target: {fileID: 7205768192138324483, guid: c3613d49302c9c743b016e30250d8358, type: 3}
       propertyPath: m_AnchoredPosition.x
@@ -211,24 +211,24 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects:
-    - targetCorrespondingSourceObject: {fileID: 133011024452284024, guid: c3613d49302c9c743b016e30250d8358, type: 3}
+    - targetCorrespondingSourceObject: {fileID: 7205768192138324483, guid: c3613d49302c9c743b016e30250d8358, type: 3}
       insertIndex: -1
       addedObject: {fileID: 7572094503694976444}
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c3613d49302c9c743b016e30250d8358, type: 3}
---- !u!114 &5754466554798809902 stripped
+--- !u!224 &3994841362082415960 stripped
+RectTransform:
+  m_CorrespondingSourceObject: {fileID: 7205768192138324483, guid: c3613d49302c9c743b016e30250d8358, type: 3}
+  m_PrefabInstance: {fileID: 6012447286167301979}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &8377719576316271386 stripped
 MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 2065876951241149557, guid: c3613d49302c9c743b016e30250d8358, type: 3}
+  m_CorrespondingSourceObject: {fileID: 2824640298811503681, guid: c3613d49302c9c743b016e30250d8358, type: 3}
   m_PrefabInstance: {fileID: 6012447286167301979}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bdaddf39bb504852b12eadb6c789ca74, type: 3}
+  m_Script: {fileID: 11500000, guid: 6531950df47e01a4e95946a6e6abb18f, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::Arrow
---- !u!224 &5956023847323107619 stripped
-RectTransform:
-  m_CorrespondingSourceObject: {fileID: 133011024452284024, guid: c3613d49302c9c743b016e30250d8358, type: 3}
-  m_PrefabInstance: {fileID: 6012447286167301979}
-  m_PrefabAsset: {fileID: 0}
+  m_EditorClassIdentifier: Assembly-CSharp::Line

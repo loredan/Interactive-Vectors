@@ -10,16 +10,20 @@ public class Line : MonoBehaviour
     [SerializeField] private Vector3 start = Vector3.zero;
     [SerializeField] private Vector3 end = Vector3.right;
     [SerializeField] private Color color = Color.white;
-    [SerializeField] private float width = 0.1f;
+
+    [Space] [SerializeField] private float maxSpriteHeight = 256;
+
+    public Vector3 StartPosition => start;
+    public Vector3 EndPosition => end;
 
     private RectTransform _rectTransform;
     private Image _image;
 
-    void Awake()
+    private void Awake()
     {
         _rectTransform = GetComponent<RectTransform>();
         _image = GetComponent<Image>();
-        
+
         _rectTransform.pivot = new Vector2(0, 0.5f);
         UpdateLine();
     }
@@ -31,11 +35,12 @@ public class Line : MonoBehaviour
 
     private void UpdateLine()
     {
-        if (_image == null || _rectTransform == null) return;
+        if (!_image || !_rectTransform) return;
 
         _rectTransform.anchoredPosition3D = start;
-        _rectTransform.SetSizeWithCurrentAnchors(RectTransform.Axis.Vertical, width);
-        _rectTransform.SetSizeWithCurrentAnchors(RectTransform.Axis.Horizontal, (end - start).magnitude);
+        var magnitude = (end - start).magnitude;
+        _rectTransform.SetSizeWithCurrentAnchors(RectTransform.Axis.Horizontal, magnitude);
+        _rectTransform.SetSizeWithCurrentAnchors(RectTransform.Axis.Vertical, Math.Min(magnitude, maxSpriteHeight));
         _rectTransform.rotation = Quaternion.FromToRotation(Vector3.right, end - start);
 
         _image.color = color;
