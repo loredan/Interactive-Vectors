@@ -1,5 +1,6 @@
 ﻿using System;
 using UnityEngine;
+using UnityEngine.Events;
 using UnityEngine.UI;
 
 [ExecuteAlways]
@@ -31,9 +32,27 @@ public class Arrow : MonoBehaviour
         if (_line == null) return;
 
         ((RectTransform)arrowhead.transform).anchoredPosition3D = Vector3.right * stemOffset;
-        arrowhead.transform.rotation = Quaternion.LookRotation(end - start) * Quaternion.AngleAxis(-90, Vector3.up);
+        arrowhead.transform.rotation = Quaternion.FromToRotation(Vector3.right, end - start);
         arrowhead.color = color;
+        _line.SetStart(start);
         _line.SetEnd(end - Vector3.Normalize(end - start) * stemOffset);
         _line.SetColor(color);
+    }
+
+    public void SetStart(Vector3 value)
+    {
+        start = value;
+        UpdateArrow();
+    }
+
+    public void SetEnd(Vector3 value)
+    {
+        end = value;
+        UpdateArrow();
+    }
+
+    public void SetVector3Value(Vector3 value)
+    {
+        SetEnd(value);
     }
 }

@@ -36,9 +36,15 @@ public class Line : MonoBehaviour
         _rectTransform.anchoredPosition3D = start;
         _rectTransform.SetSizeWithCurrentAnchors(RectTransform.Axis.Vertical, width);
         _rectTransform.SetSizeWithCurrentAnchors(RectTransform.Axis.Horizontal, (end - start).magnitude);
-        _rectTransform.rotation = Quaternion.LookRotation(end - start) * Quaternion.AngleAxis(-90, Vector3.up);
+        _rectTransform.rotation = Quaternion.FromToRotation(Vector3.right, end - start);
 
         _image.color = color;
+    }
+
+    public void SetStart(Vector3 value)
+    {
+        start = value;
+        UpdateLine();
     }
 
     public void SetEnd(Vector3 value)
