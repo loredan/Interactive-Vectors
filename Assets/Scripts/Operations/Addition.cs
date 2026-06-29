@@ -4,8 +4,10 @@ using UnityEngine;
 
 namespace Operations
 {
-    public class Addition : MonoBehaviour
+    public class Addition : MonoBehaviour, IDemo
     {
+        public string DropdownName => "Add";
+        
         [SerializeField] private Line a;
         [SerializeField] private Line b;
         [SerializeField] private Line c;

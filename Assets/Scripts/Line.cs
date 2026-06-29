@@ -16,15 +16,15 @@ public class Line : MonoBehaviour
     public Vector3 StartPosition => start;
     public Vector3 EndPosition => end;
 
-    private RectTransform _rectTransform;
-    private Image _image;
+    private RectTransform rectTransform;
+    private Image image;
 
     private void Awake()
     {
-        _rectTransform = GetComponent<RectTransform>();
-        _image = GetComponent<Image>();
+        rectTransform = GetComponent<RectTransform>();
+        image = GetComponent<Image>();
 
-        _rectTransform.pivot = new Vector2(0, 0.5f);
+        rectTransform.pivot = new Vector2(0, 0.5f);
         UpdateLine();
     }
 
@@ -35,15 +35,15 @@ public class Line : MonoBehaviour
 
     private void UpdateLine()
     {
-        if (!_image || !_rectTransform) return;
+        if (!image || !rectTransform) return;
 
-        _rectTransform.anchoredPosition3D = start;
+        rectTransform.anchoredPosition3D = start;
         var magnitude = (end - start).magnitude;
-        _rectTransform.SetSizeWithCurrentAnchors(RectTransform.Axis.Horizontal, magnitude);
-        _rectTransform.SetSizeWithCurrentAnchors(RectTransform.Axis.Vertical, Math.Min(magnitude, maxSpriteHeight));
-        _rectTransform.rotation = Quaternion.FromToRotation(Vector3.right, end - start);
+        rectTransform.SetSizeWithCurrentAnchors(RectTransform.Axis.Horizontal, magnitude);
+        rectTransform.SetSizeWithCurrentAnchors(RectTransform.Axis.Vertical, Math.Min(magnitude, maxSpriteHeight));
+        rectTransform.rotation = Quaternion.FromToRotation(Vector3.right, end - start);
 
-        _image.color = color;
+        image.color = color;
     }
 
     public void SetStart(Vector3 value)
