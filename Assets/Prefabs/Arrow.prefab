@@ -38,7 +38,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 28842319066609481, guid: d7facfc8860291445afdb40a84dfcf45, type: 3}
       propertyPath: m_SizeDelta.y
-      value: 128
+      value: 64
       objectReference: {fileID: 0}
     - target: {fileID: 28842319066609481, guid: d7facfc8860291445afdb40a84dfcf45, type: 3}
       propertyPath: m_LocalPosition.x
@@ -118,7 +118,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4851875928435435787, guid: d7facfc8860291445afdb40a84dfcf45, type: 3}
       propertyPath: maxSpriteHeight
-      value: 128
+      value: 64
       objectReference: {fileID: 0}
     - target: {fileID: 5975976760936534108, guid: d7facfc8860291445afdb40a84dfcf45, type: 3}
       propertyPath: m_Name
@@ -154,7 +154,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8206107342495731372, guid: d7facfc8860291445afdb40a84dfcf45, type: 3}
       propertyPath: m_PixelsPerUnitMultiplier
-      value: 2
+      value: 4
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
