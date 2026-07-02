@@ -45,7 +45,6 @@ namespace Operations
             {
                 var sample = Vector3.Slerp(start, end, tStepStart);
                 var distance = Vector3.Distance(start, sample);
-                print("Start distance: " + distance);
 
                 if (Math.Abs(distance - segmentLength) < 0.1f)
                     break;
@@ -59,7 +58,6 @@ namespace Operations
             {
                 var sample = Vector3.Slerp(start, end, 1 - tStepEnd);
                 var distance = Vector3.Distance(end, sample);
-                print("End distance: " + distance);
 
                 if (Math.Abs(distance - segmentLength) < 0.1f)
                     break;
@@ -93,7 +91,6 @@ namespace Operations
             {
                 var sample = Vector3.SlerpUnclamped(start, end, -tMax + tStepStart);
                 var distance = Vector3.Distance(curveStart, sample);
-                print("Start distance: " + distance);
 
                 if (Math.Abs(distance - segmentLength) < 0.1f)
                     break;
@@ -107,7 +104,6 @@ namespace Operations
             {
                 var sample = Vector3.SlerpUnclamped(start, end, tMax - tStepEnd);
                 var distance = Vector3.Distance(curveEnd, sample);
-                print("End distance: " + distance);
 
                 if (Math.Abs(distance - segmentLength) < 0.1f)
                     break;
