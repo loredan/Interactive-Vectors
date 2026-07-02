@@ -37,27 +37,29 @@ namespace Operations
 
             var points = new List<Vector3>();
 
-            var tStepStart = angle;
+            var tStepStart = angle / 2;
             
-            while (true)
+            var counter = 0;
+            while (counter++ < 1000)
             {
                 var sample = Vector3.RotateTowards(start, end, tStepStart, maxMagnitudeDelta);
                 var distance = Vector3.Distance(curveStart, sample);
 
-                if (Math.Abs(distance - segmentLength) < 0.1f)
+                if (tStepStart > angle || Math.Abs(distance - segmentLength) < 0.1f || distance == 0f)
                     break;
 
                 tStepStart /= distance / segmentLength;
             }
 
-            var tStepEnd = angle;
+            var tStepEnd = angle / 2;
 
-            while (true)
+            counter = 0;
+            while (counter++ < 1000)
             {
                 var sample = Vector3.RotateTowards(start, end, angle - tStepEnd, maxMagnitudeDelta);
                 var distance = Vector3.Distance(curveEnd, sample);
 
-                if (Math.Abs(distance - segmentLength) < 0.1f)
+                if (tStepEnd > angle || Math.Abs(distance - segmentLength) < 0.1f || distance == 0f)
                     break;
 
                 tStepEnd /= distance / segmentLength;
@@ -74,7 +76,7 @@ namespace Operations
             }
 
             var lastPoint = Vector3.RotateTowards(start, end, angle, maxMagnitudeDelta);
-            if (points.Last() != lastPoint)
+            if (points.Count > 0 && points.Last() != lastPoint)
             {
                 points.Add(lastPoint);
             }
@@ -92,27 +94,29 @@ namespace Operations
 
             var points = new List<Vector3>();
 
-            var tStepStart = maxMagnitudeRangeLength;
+            var tStepStart = maxMagnitudeRangeLength / 2;
 
-            while (true)
+            var counter = 0;
+            while (counter++ < 1000)
             {
                 var sample = Vector3.RotateTowards(start, end, maxRadiansDelta, tStepStart);
                 var distance = Vector3.Distance(curveStart, sample);
 
-                if (sample == curveEnd || Math.Abs(distance - segmentLength) < 0.1f)
+                if (tStepStart > maxMagnitudeRangeLength || Math.Abs(distance - segmentLength) < 0.1f || distance == 0f)
                     break;
 
                 tStepStart /= distance / segmentLength;
             }
 
-            var tStepEnd = maxMagnitudeRangeLength;
+            var tStepEnd = maxMagnitudeRangeLength / 2;
 
-            while (true)
+            counter = 0;
+            while (counter++ < 1000)
             {
                 var sample = Vector3.RotateTowards(start, end, maxRadiansDelta, maxMagnitudeRangeLength - tStepEnd);
                 var distance = Vector3.Distance(curveEnd, sample);
 
-                if (sample == curveStart || Math.Abs(distance - segmentLength) < 0.1f)
+                if (tStepEnd > maxMagnitudeRangeLength || Math.Abs(distance - segmentLength) < 0.1f || distance == 0f)
                     break;
 
                 tStepEnd /= distance / segmentLength;
@@ -129,7 +133,7 @@ namespace Operations
             }
 
             var lastPoint = Vector3.RotateTowards(start, end, maxRadiansDelta, maxMagnitudeRangeLength);
-            if (points.Last() != lastPoint)
+            if (points.Count > 0 && points.Last() != lastPoint)
             {
                 points.Add(lastPoint);
             }
