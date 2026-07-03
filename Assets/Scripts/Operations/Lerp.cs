@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using Unity.VisualScripting;
+using UnityEngine;
 using UnityEngine.UI;
 
 namespace Operations
@@ -16,6 +17,9 @@ namespace Operations
         [Space] [SerializeField] private Toggle clamped;
 
         [Space] [SerializeField] private Line helper;
+
+        [Space] [SerializeField] [InspectorLabel("Description clamped")] private Image descClamped;
+        [SerializeField] [InspectorLabel("Description unclamped")] private Image descUnclamped;
         
         private RectTransform rectTransform;
 
@@ -36,11 +40,14 @@ namespace Operations
             else
             {
                 c.SetEnd(Vector3.LerpUnclamped(a.EndPosition, b.EndPosition, t.value));
-                
+
                 var diagonal = rectTransform.rect.max.magnitude;
                 helper.SetStart(a.EndPosition + (a.EndPosition - b.EndPosition).normalized * diagonal);
                 helper.SetEnd(b.EndPosition + (b.EndPosition - a.EndPosition).normalized * diagonal);
             }
+            
+            descClamped.enabled = clamped.isOn;
+            descUnclamped.enabled = !clamped.isOn;
         }
     }
 }

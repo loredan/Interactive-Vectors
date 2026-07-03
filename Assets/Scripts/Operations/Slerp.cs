@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -21,6 +22,9 @@ namespace Operations
         [SerializeField] private float segmentLength = 16;
         [SerializeField] private float unclampedMaxAngle = 360;
 
+        [Space] [SerializeField] [InspectorLabel("Description clamped")] private Image descClamped;
+        [SerializeField] [InspectorLabel("Description unclamped")] private Image descUnclamped;
+
         private void Update()
         {
             if (clamped.isOn)
@@ -33,6 +37,9 @@ namespace Operations
                 c.SetEnd(Vector3.SlerpUnclamped(a.EndPosition, b.EndPosition, t.value));
                 helper.SetPoints(GenerateUnclampedHelperLinePoints(a.EndPosition, b.EndPosition));
             }
+            
+            descClamped.enabled = clamped.isOn;
+            descUnclamped.enabled = !clamped.isOn;
         }
 
         private Vector3[] GenerateClampedHelperLinePoints(Vector3 start, Vector3 end)

@@ -1,0 +1,2223 @@
+fileFormatVersion: 2
+guid: cd39236d62fd90a4c9ed6c1f438e57a7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4983618365931593342
+    second: RotateTowards_0
+  - first:
+      213: 6064570492438849236
+    second: RotateTowards_1
+  - first:
+      213: 3701447503773989556
+    second: RotateTowards_2
+  - first:
+      213: -9035778597347972191
+    second: RotateTowards_3
+  - first:
+      213: 4296851928006256064
+    second: RotateTowards_4
+  - first:
+      213: -5243536987733563758
+    second: RotateTowards_5
+  - first:
+      213: 2140145920632342899
+    second: RotateTowards_6
+  - first:
+      213: 5465406141831970006
+    second: RotateTowards_7
+  - first:
+      213: -5180277476629035033
+    second: RotateTowards_8
+  - first:
+      213: -4762462790068949500
+    second: RotateTowards_9
+  - first:
+      213: -5024446065982857576
+    second: RotateTowards_10
+  - first:
+      213: 9037593227173384270
+    second: RotateTowards_11
+  - first:
+      213: -2884586940775658490
+    second: RotateTowards_12
+  - first:
+      213: -3408672152232491542
+    second: RotateTowards_13
+  - first:
+      213: 3729582318061002489
+    second: RotateTowards_14
+  - first:
+      213: -3376901534544224981
+    second: RotateTowards_15
+  - first:
+      213: -3326990435547037183
+    second: RotateTowards_16
+  - first:
+      213: 8866292825306279144
+    second: RotateTowards_17
+  - first:
+      213: 8132483334554732168
+    second: RotateTowards_18
+  - first:
+      213: 4146692767213863629
+    second: RotateTowards_19
+  - first:
+      213: -3911880275205831323
+    second: RotateTowards_20
+  - first:
+      213: -2893980815193427889
+    second: RotateTowards_21
+  - first:
+      213: -5935925399664293209
+    second: RotateTowards_22
+  - first:
+      213: -4861610210075425584
+    second: RotateTowards_23
+  - first:
+      213: 5737934710380449671
+    second: RotateTowards_24
+  - first:
+      213: 6171283988691452450
+    second: RotateTowards_25
+  - first:
+      213: -8053370645764071008
+    second: RotateTowards_26
+  - first:
+      213: 2069342430729270537
+    second: RotateTowards_27
+  - first:
+      213: 3321880171193060036
+    second: RotateTowards_28
+  - first:
+      213: -5389113487126135539
+    second: RotateTowards_29
+  - first:
+      213: -1387160793812810826
+    second: RotateTowards_30
+  - first:
+      213: 8565462602834107180
+    second: RotateTowards_31
+  - first:
+      213: 8545269335519125867
+    second: RotateTowards_32
+  - first:
+      213: 7016776993710744228
+    second: RotateTowards_33
+  - first:
+      213: -1184326638572001678
+    second: RotateTowards_34
+  - first:
+      213: -7497299911705804497
+    second: RotateTowards_35
+  - first:
+      213: -3565258071157832194
+    second: RotateTowards_36
+  - first:
+      213: 6097623016691878028
+    second: RotateTowards_37
+  - first:
+      213: -2027599071106914961
+    second: RotateTowards_38
+  - first:
+      213: 3561291398374150659
+    second: RotateTowards_39
+  - first:
+      213: 592372336674821277
+    second: RotateTowards_40
+  - first:
+      213: 7941688964344621341
+    second: RotateTowards_41
+  - first:
+      213: 3589612650882748411
+    second: RotateTowards_42
+  - first:
+      213: -2056795701447275890
+    second: RotateTowards_43
+  - first:
+      213: -4128724700141709502
+    second: RotateTowards_44
+  - first:
+      213: -3941166867444278490
+    second: RotateTowards_45
+  - first:
+      213: 3301650599690888984
+    second: RotateTowards_46
+  - first:
+      213: 2497586621148718063
+    second: RotateTowards_47
+  - first:
+      213: 5614485867180548186
+    second: RotateTowards_48
+  - first:
+      213: 71570640842431761
+    second: RotateTowards_49
+  - first:
+      213: -1917995717995563405
+    second: RotateTowards_50
+  - first:
+      213: 5385804893386591611
+    second: RotateTowards_51
+  - first:
+      213: 9189178045509083378
+    second: RotateTowards_52
+  - first:
+      213: -111831674240553700
+    second: RotateTowards_53
+  - first:
+      213: 6915080618975528047
+    second: RotateTowards_54
+  - first:
+      213: -6737182826051328019
+    second: RotateTowards_55
+  - first:
+      213: 8934894845434500874
+    second: RotateTowards_56
+  - first:
+      213: -7791073921067656658
+    second: RotateTowards_57
+  - first:
+      213: -5254211699997856525
+    second: RotateTowards_58
+  - first:
+      213: 6569511522120337014
+    second: RotateTowards_59
+  - first:
+      213: -2869552487367484563
+    second: RotateTowards_60
+  - first:
+      213: 8290621155606384568
+    second: RotateTowards_61
+  - first:
+      213: 3106376323646302680
+    second: RotateTowards_62
+  - first:
+      213: -4050815397157798890
+    second: RotateTowards_63
+  - first:
+      213: -1264052848146458685
+    second: RotateTowards_64
+  - first:
+      213: 2505168458001938781
+    second: RotateTowards_65
+  - first:
+      213: -3190102273418553421
+    second: RotateTowards_66
+  - first:
+      213: -4575976998560348202
+    second: RotateTowards_67
+  - first:
+      213: -7888515297527940479
+    second: RotateTowards_68
+  - first:
+      213: -7390618343453315094
+    second: RotateTowards_69
+  - first:
+      213: -240838063353407582
+    second: RotateTowards_70
+  - first:
+      213: -6946645818168540701
+    second: RotateTowards_71
+  - first:
+      213: -6652125760322977731
+    second: RotateTowards_72
+  - first:
+      213: -5107760112623478917
+    second: RotateTowards_73
+  - first:
+      213: 1628521125187067657
+    second: RotateTowards_74
+  - first:
+      213: -5591808186437654702
+    second: RotateTowards_75
+  - first:
+      213: -9059645860748987268
+    second: RotateTowards_76
+  - first:
+      213: 9085303684295836690
+    second: RotateTowards_77
+  - first:
+      213: 4816059605337658336
+    second: RotateTowards_78
+  - first:
+      213: 4015138430118819321
+    second: RotateTowards_79
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RotateTowards_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 196
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e177ddf7e592540800000000000000
+      internalID: 4983618365931593342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 196
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6222d3bbea92450800000000000000
+      internalID: 6064570492438849236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_2
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 196
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba7431c4ee2e5330800000000000000
+      internalID: 3701447503773989556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_3
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 196
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab2ff34d377a9280800000000000000
+      internalID: -9035778597347972191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_4
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 220
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5e345101c71ab30800000000000000
+      internalID: 4296851928006256064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_5
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 196
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296e48f14e63b37b0800000000000000
+      internalID: -5243536987733563758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_6
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 196
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379cac6306353bd10800000000000000
+      internalID: 2140145920632342899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_7
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 196
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dcf125dde509db40800000000000000
+      internalID: 5465406141831970006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_8
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 196
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7c19fc415fb18b0800000000000000
+      internalID: -5180277476629035033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_9
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 196
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40eace5335558edb0800000000000000
+      internalID: -4762462790068949500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_10
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 196
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e9bf37ce4954ab0800000000000000
+      internalID: -5024446065982857576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_11
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 196
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40552a282bfb6d70800000000000000
+      internalID: 9037593227173384270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_12
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 196
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c0657e573e7f7d0800000000000000
+      internalID: -2884586940775658490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_13
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 196
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae58a6accb6f1b0d0800000000000000
+      internalID: -3408672152232491542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_14
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 196
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe9a9cab5322c330800000000000000
+      internalID: 3729582318061002489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_15
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 196
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d150822f5d221d0800000000000000
+      internalID: -3376901534544224981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_16
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 196
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102c81673d724d1d0800000000000000
+      internalID: -3326990435547037183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_17
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 196
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eca9f659566b0b70800000000000000
+      internalID: 8866292825306279144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_18
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 196
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8864be941826cd070800000000000000
+      internalID: 8132483334554732168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_19
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 196
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2c6760a130c8930800000000000000
+      internalID: 4146692767213863629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_20
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 196
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565cf70ad9536b9c0800000000000000
+      internalID: -3911880275205831323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_21
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 196
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40b99318c386d7d0800000000000000
+      internalID: -2893980815193427889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_22
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 196
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa8ac38c4b5f9da0800000000000000
+      internalID: -5935925399664293209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_23
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 196
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4ca089547188cb0800000000000000
+      internalID: -4861610210075425584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_24
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 196
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f4c9cd73d31af40800000000000000
+      internalID: 5737934710380449671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_25
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 189
+        width: 20
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2228202471ec4a550800000000000000
+      internalID: 6171283988691452450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_26
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 196
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1aca6f01eac3090800000000000000
+      internalID: -8053370645764071008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_27
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 196
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905f2461af7c7bc10800000000000000
+      internalID: 2069342430729270537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_28
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 196
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca40666a60b91e20800000000000000
+      internalID: 3321880171193060036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_29
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 196
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d749116d50635b0800000000000000
+      internalID: -5389113487126135539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_30
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 189
+        width: 20
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b340768b90dfbce0800000000000000
+      internalID: -1387160793812810826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_31
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 220
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2bd1d20bd2aed670800000000000000
+      internalID: 8565462602834107180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_32
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 206
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61e7a59f25e69670800000000000000
+      internalID: 8545269335519125867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_33
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 196
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a22342df79906160800000000000000
+      internalID: 7016776993710744228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_34
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 187
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27622e1723d609fe0800000000000000
+      internalID: -1184326638572001678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_35
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 187
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f214534e37d34f790800000000000000
+      internalID: -7497299911705804497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_36
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 187
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef50b008ca8a58ec0800000000000000
+      internalID: -3565258071157832194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_37
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 187
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c884a2cb3db1f9450800000000000000
+      internalID: 6097623016691878028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_38
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 6
+        width: 30
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65a2c333658cd3e0800000000000000
+      internalID: -2027599071106914961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_39
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 6
+        width: 30
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302deb588af3c6130800000000000000
+      internalID: 3561291398374150659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_40
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 6
+        width: 30
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94554e6087883800800000000000000
+      internalID: 592372336674821277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_41
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 123
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19a664490c863e60800000000000000
+      internalID: 7941688964344621341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_42
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 81
+        width: 15
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff4d19ffadd0d130800000000000000
+      internalID: 3589612650882748411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_43
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 94
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a4fa7f43bc473e0800000000000000
+      internalID: -2056795701447275890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_44
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 81
+        width: 15
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2471ca892c2d3b6c0800000000000000
+      internalID: -4128724700141709502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_45
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 6
+        width: 30
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62bd1718d992e49c0800000000000000
+      internalID: -3941166867444278490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_46
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 6
+        width: 30
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 817e70f3ab1d1dd20800000000000000
+      internalID: 3301650599690888984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_47
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 6
+        width: 30
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe366559cc539a220800000000000000
+      internalID: 2497586621148718063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_48
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 83
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a506fbd3629aaed40800000000000000
+      internalID: 5614485867180548186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_49
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 81
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d92cf5e154ef000800000000000000
+      internalID: 71570640842431761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_50
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 48
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37677247e09e165e0800000000000000
+      internalID: -1917995717995563405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_51
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 94
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d4edbe3093eba40800000000000000
+      internalID: 5385804893386591611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_52
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 94
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0236cfeb4868f70800000000000000
+      internalID: 9189178045509083378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_53
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 94
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d214e4fa1b27ef0800000000000000
+      internalID: -111831674240553700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_54
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 83
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64893f6f2d47ff50800000000000000
+      internalID: 6915080618975528047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_55
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 81
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de729523ae7b082a0800000000000000
+      internalID: -6737182826051328019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_56
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 83
+        width: 70
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a079797d58f1ffb70800000000000000
+      internalID: 8934894845434500874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_57
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 81
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ad3f33c8b80e390800000000000000
+      internalID: -7791073921067656658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_58
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 84
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc2deefb4a4517b0800000000000000
+      internalID: -5254211699997856525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_59
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 83
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67681df2ce79b2b50800000000000000
+      internalID: 6569511522120337014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_60
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 81
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b5f1e573d4d28d0800000000000000
+      internalID: -2869552487367484563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_61
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 79
+        width: 53
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bfc143f3043e0370800000000000000
+      internalID: 8290621155606384568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_62
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 26
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d92f9ddec01c1b20800000000000000
+      internalID: 3106376323646302680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_63
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 55
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61cf9b1cbdc98c7c0800000000000000
+      internalID: -4050815397157798890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_64
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 13
+        width: 15
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7d8e0c1ae257ee0800000000000000
+      internalID: -1264052848146458685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_65
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 26
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59f7b9807524c220800000000000000
+      internalID: 2505168458001938781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_66
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 26
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b798bb52ea7ab3d0800000000000000
+      internalID: -3190102273418553421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_67
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 13
+        width: 15
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7c3741a2dde70c0800000000000000
+      internalID: -4575976998560348202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_68
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 64
+        width: 53
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18abc9dc12d568290800000000000000
+      internalID: -7888515297527940479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_69
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 26
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aefaaf716cf3f6990800000000000000
+      internalID: -7390618343453315094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_70
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 26
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a75d61be0f58acf0800000000000000
+      internalID: -240838063353407582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_71
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 26
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e18c9bee6e889f90800000000000000
+      internalID: -6946645818168540701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_72
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 26
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3049be8dd6eea3a0800000000000000
+      internalID: -6652125760322977731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_73
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 13
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b771b295d379d19b0800000000000000
+      internalID: -5107760112623478917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_74
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 38
+        width: 37
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f9ef7c55ba99610800000000000000
+      internalID: 1628521125187067657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_75
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 26
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2572343c418e562b0800000000000000
+      internalID: -5591808186437654702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_76
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 13
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74f737f61ca54280800000000000000
+      internalID: -9059645860748987268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_77
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 13
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214400b909b751e70800000000000000
+      internalID: 9085303684295836690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_78
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 16
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e35249c1b416d240800000000000000
+      internalID: 4816059605337658336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateTowards_79
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 13
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5704b0123a8b730800000000000000
+      internalID: 4015138430118819321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      RotateTowards_0: 4983618365931593342
+      RotateTowards_1: 6064570492438849236
+      RotateTowards_10: -5024446065982857576
+      RotateTowards_11: 9037593227173384270
+      RotateTowards_12: -2884586940775658490
+      RotateTowards_13: -3408672152232491542
+      RotateTowards_14: 3729582318061002489
+      RotateTowards_15: -3376901534544224981
+      RotateTowards_16: -3326990435547037183
+      RotateTowards_17: 8866292825306279144
+      RotateTowards_18: 8132483334554732168
+      RotateTowards_19: 4146692767213863629
+      RotateTowards_2: 3701447503773989556
+      RotateTowards_20: -3911880275205831323
+      RotateTowards_21: -2893980815193427889
+      RotateTowards_22: -5935925399664293209
+      RotateTowards_23: -4861610210075425584
+      RotateTowards_24: 5737934710380449671
+      RotateTowards_25: 6171283988691452450
+      RotateTowards_26: -8053370645764071008
+      RotateTowards_27: 2069342430729270537
+      RotateTowards_28: 3321880171193060036
+      RotateTowards_29: -5389113487126135539
+      RotateTowards_3: -9035778597347972191
+      RotateTowards_30: -1387160793812810826
+      RotateTowards_31: 8565462602834107180
+      RotateTowards_32: 8545269335519125867
+      RotateTowards_33: 7016776993710744228
+      RotateTowards_34: -1184326638572001678
+      RotateTowards_35: -7497299911705804497
+      RotateTowards_36: -3565258071157832194
+      RotateTowards_37: 6097623016691878028
+      RotateTowards_38: -2027599071106914961
+      RotateTowards_39: 3561291398374150659
+      RotateTowards_4: 4296851928006256064
+      RotateTowards_40: 592372336674821277
+      RotateTowards_41: 7941688964344621341
+      RotateTowards_42: 3589612650882748411
+      RotateTowards_43: -2056795701447275890
+      RotateTowards_44: -4128724700141709502
+      RotateTowards_45: -3941166867444278490
+      RotateTowards_46: 3301650599690888984
+      RotateTowards_47: 2497586621148718063
+      RotateTowards_48: 5614485867180548186
+      RotateTowards_49: 71570640842431761
+      RotateTowards_5: -5243536987733563758
+      RotateTowards_50: -1917995717995563405
+      RotateTowards_51: 5385804893386591611
+      RotateTowards_52: 9189178045509083378
+      RotateTowards_53: -111831674240553700
+      RotateTowards_54: 6915080618975528047
+      RotateTowards_55: -6737182826051328019
+      RotateTowards_56: 8934894845434500874
+      RotateTowards_57: -7791073921067656658
+      RotateTowards_58: -5254211699997856525
+      RotateTowards_59: 6569511522120337014
+      RotateTowards_6: 2140145920632342899
+      RotateTowards_60: -2869552487367484563
+      RotateTowards_61: 8290621155606384568
+      RotateTowards_62: 3106376323646302680
+      RotateTowards_63: -4050815397157798890
+      RotateTowards_64: -1264052848146458685
+      RotateTowards_65: 2505168458001938781
+      RotateTowards_66: -3190102273418553421
+      RotateTowards_67: -4575976998560348202
+      RotateTowards_68: -7888515297527940479
+      RotateTowards_69: -7390618343453315094
+      RotateTowards_7: 5465406141831970006
+      RotateTowards_70: -240838063353407582
+      RotateTowards_71: -6946645818168540701
+      RotateTowards_72: -6652125760322977731
+      RotateTowards_73: -5107760112623478917
+      RotateTowards_74: 1628521125187067657
+      RotateTowards_75: -5591808186437654702
+      RotateTowards_76: -9059645860748987268
+      RotateTowards_77: 9085303684295836690
+      RotateTowards_78: 4816059605337658336
+      RotateTowards_79: 4015138430118819321
+      RotateTowards_8: -5180277476629035033
+      RotateTowards_9: -4762462790068949500
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
