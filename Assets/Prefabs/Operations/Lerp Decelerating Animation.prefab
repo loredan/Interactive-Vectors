@@ -247,7 +247,7 @@ MonoBehaviour:
   speed: {fileID: 1936059563126745176}
   helper: {fileID: 6774691733416685970}
   loopEndDelay: 1
-  animationTimeLimit: 10
+  animationTimeLimit: 3
 --- !u!1 &1852259769325250462
 GameObject:
   m_ObjectHideFlags: 0

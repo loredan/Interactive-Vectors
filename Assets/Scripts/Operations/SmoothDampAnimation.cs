@@ -19,7 +19,7 @@ namespace Operations
         [Space] [SerializeField] private Line helper;
 
         [Space] [SerializeField] private float loopEndDelay = 1f;
-        [SerializeField] private float animationTimeLimit = 10f;
+        [SerializeField] private float animationFinishRadius = 1f;
 
         private void Start()
         {
@@ -35,10 +35,8 @@ namespace Operations
                 yield return new WaitForSeconds(1f);
 
                 var currentVelocity = Vector3.zero;
-                var timer = 0f;
-                while (c.EndPosition != b.EndPosition && timer < animationTimeLimit)
+                while (Vector3.Distance(c.EndPosition, b.EndPosition) > animationFinishRadius)
                 {
-                    timer += Time.deltaTime;
                     c.SetEnd(Vector3.SmoothDamp(
                         c.EndPosition,
                         b.EndPosition,

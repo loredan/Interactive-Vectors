@@ -361,6 +361,7 @@ MonoBehaviour:
   maxSpeed: {fileID: 1936059563126745176}
   helper: {fileID: 1596293832283384261}
   loopEndDelay: 1
+  animationTimeLimit: 3
 --- !u!1 &1690977078728556464
 GameObject:
   m_ObjectHideFlags: 0
